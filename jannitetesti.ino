@@ -1,8 +1,8 @@
 // BLYNKIN TIEDOT OLTAVA ALUSSA!! jotta blynk toimii
 #define BLYNK_PRINT Serial
-#define BLYNK_TEMPLATE_ID "TMPLi-jllI5M"
+#define BLYNK_TEMPLATE_ID ""
 #define BLYNK_DEVICE_NAME "Jännitteen mittaus"
-#define BLYNK_AUTH_TOKEN "FtZn4hatIFHDeegLW9x3wacSi5LamWFM"
+#define BLYNK_AUTH_TOKEN ""
 //
 #include <Wire.h>
 #include <SPI.h>
