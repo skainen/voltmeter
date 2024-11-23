@@ -13,7 +13,7 @@
 #include <WebServer.h>
 
 // Auth token löytyy blynkistä kun luot uuden projektin
-char auth[] = "FtZn4hatIFHDeegLW9x3wacSi5LamWFM";
+char auth[] = "";
 
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
